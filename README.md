@@ -125,7 +125,7 @@ sudo ./ebpf
 
 ```
 
-By running random commands in another terminal, you should be able to see `Hello World` logs under `sudo bpftool prog trace` command.
+By running random commands in another terminal, you should be able to see `prog list` logs under `sudo bpftool prog list` command.
 
 
 ## Example Metric
